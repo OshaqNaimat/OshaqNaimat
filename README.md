@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-     👋 Hi, I'm Oshaq Naimat, Full Stack Web Developer
+     👋 Hi, I'm Oshaq Naimat, A Full Stack Web Developer
   </h1>
 I'm a Full Stack Developer passionate about crafting digital experiences with code.
 
