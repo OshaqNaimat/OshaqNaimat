@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>
+  <h1>
      👋 Hi, I'm Oshaq Naimat, Full Stack Web Developer
-  </h3>
+  </h1>
 I'm a Full Stack Developer passionate about crafting digital experiences with code.
 
 🚀 **Currently working on:** React.js, Node.js, Laravel  
