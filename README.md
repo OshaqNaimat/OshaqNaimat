@@ -11,12 +11,12 @@ I'm a Full Stack Developer passionate about crafting digital experiences with co
 ## Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/oshaq">
+  <a href="https://www.linkedin.com/in/oshaq-naimat-14347336a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   
-  <a href="https://instagram.com/oshaq">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+  <a href="https://www.instagram.com/oshaq_naimat/">
+    <img src="https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-instagram-icon-colorful.png" height="40" alt="Instagram" />
   </a>
  
 </p>
@@ -26,18 +26,27 @@ I'm a Full Stack Developer passionate about crafting digital experiences with co
 
 ## Languages & Tools:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-</p>
+### Tech Stack
 
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://getbootstrap.com/)
+![CSS](https://www.w3schools.com/css/)
+![express](https://expressjs.com/)
+![Git](https://git-scm.com/)
+![Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![HTML](https://www.w3schools.com/html/)
+![mongodb](https://www.mongodb.com/)
+![MySQL](https://www.mysql.com/)
+![Next](https://nextjs.org/)
+![Node.js](https://nodejs.org/en)
+![php](https://www.php.net/)
+![Postman](https://www.postman.com/)
+![React](https://react.dev/)
+![Redux](https://redux.js.org/)
+![Tailwind](https://tailwindcss.com/)
+![]()
+![]()
+![]()
+![]()
