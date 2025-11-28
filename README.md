@@ -5,7 +5,9 @@
 I'm a Full Stack Developer passionate about crafting digital experiences with code.
 
 🚀 **Currently working on:** React.js, Node.js, Laravel  
+<br>
 💡 **Ask me about:** HTML, CSS, JS, React, Node.js, Express.js, PHP, Laravel, Tailwind, Bootstrap 
+<br>
 ✉️ **Reach me at:** oshaqnaimat15@gmail.com
 
 </div>
