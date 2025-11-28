@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Oshaq
+<div align="center">
+  # 👋 Hi, I'm Oshaq
 
 I'm a Full Stack Developer passionate about crafting digital experiences with code.
 
@@ -6,6 +7,7 @@ I'm a Full Stack Developer passionate about crafting digital experiences with co
 💡 **Ask me about:** HTML, CSS, JS, React, Node.js, Express.js, PHP, Laravel, Tailwind, Bootstrap 
 ✉️ **Reach me at:** oshaqnaimat15@gmail.com
 
+</div>
 ---
 
 ## Connect with me:
