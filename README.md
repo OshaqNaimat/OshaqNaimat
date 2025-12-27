@@ -23,6 +23,10 @@ I'm a Full Stack Developer passionate about crafting digital experiences with co
   <a href="https://www.instagram.com/oshaq_naimat/">
     <img src="https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-instagram-icon-colorful.png" height="40" alt="Instagram" />
   </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61585390575286">
+   <img src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-facebook-icon-social-media.png" height="40" alt="Facebook"/>
+  </a>
  
 </p>
 
