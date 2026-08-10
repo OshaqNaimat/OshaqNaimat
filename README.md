@@ -1,9 +1,12 @@
 <div align="center">
   <h1 align="center">Hey there, I am Oshaq Naimat 👋</h1>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web-Developer+%F0%9F%92%BB;Laravel+%26+MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9A%A1" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I+am+Oshaq+Naimat+%F0%9F%91%8B;Full+Stack+Web-Developer+%F0%9F%92%BB;Laravel+%26+MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9A%A1" />
 </p>
+
+
 I'm a Full Stack Developer passionate about crafting digital experiences with code.
 
 🚀 **Currently working on:** React.js, Node.js, Laravel  
