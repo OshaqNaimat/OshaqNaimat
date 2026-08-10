@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hey there, I am Oshaq Naimat 👋</h1>
+  <!-- <h1 align="center">Hey there, I am Oshaq Naimat 👋</h1> -->
 
 
 <p align="center">
