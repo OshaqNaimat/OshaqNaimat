@@ -15,7 +15,6 @@
 
 ---
 
----
 <h2 align="center">🐍 My GitHub Contributions</h2>
 
 <p align="center">
@@ -29,6 +28,17 @@
 ---
 
 </div>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
+    alt="Oshaq Naimat's GitHub Activity Graph"
+  />
+</p>
+
+---
 
 ## Languages & Tools:
 <p align="left">
