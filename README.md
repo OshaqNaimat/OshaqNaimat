@@ -6,37 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I+am+Oshaq+Naimat+%F0%9F%91%8B;Full+Stack+Web-Developer+%F0%9F%92%BB;Laravel+%26+MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9A%A1" />
 </p>
 
-
-I'm a Full Stack Developer passionate about crafting digital experiences with code.
-
-🚀 **Currently working on:** React.js, Node.js, Laravel  
-<br>
-💡 **Ask me about:** HTML, CSS, JS, React, Node.js, Express.js, PHP, Laravel, Tailwind, Bootstrap 
-<br>
-✉️ **Reach me at:** oshaqnaimat15@gmail.com
-
-</div>
 ---
 
-## Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oshaq-naimat-14347336a/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://www.instagram.com/oshaq_naimat/">
-    <img src="https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-instagram-icon-colorful.png" height="40" alt="Instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=61585390575286">
-   <img src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-facebook-icon-social-media.png" height="40" alt="Facebook"/>
-  </a>
- 
+## Github Stats
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=OshaqNaimat&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=A371F7&sideLabels=58A6FF&dates=2DD4BF" alt="GitHub Streak" />
 </p>
 
-
 ---
+
+
+</div>
 
 ## Languages & Tools:
 <p align="left">
@@ -103,6 +83,24 @@ I'm a Full Stack Developer passionate about crafting digital experiences with co
 
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.vercel.app?user=OshaqNaimat&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=A371F7&sideLabels=58A6FF&dates=2DD4BF" alt="GitHub Streak" />
+---
+
+## Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/oshaq-naimat-14347336a/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.instagram.com/oshaq_naimat/">
+    <img src="https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-instagram-icon-colorful.png" height="40" alt="Instagram" />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61585390575286">
+   <img src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-facebook-icon-social-media.png" height="40" alt="Facebook"/>
+  </a>
+ 
 </p>
+
+
+---
