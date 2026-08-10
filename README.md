@@ -104,5 +104,5 @@ I'm a Full Stack Developer passionate about crafting digital experiences with co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-vercel.vercel.app?user=OshaqNaimat&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=A371F7&sideLabels=58A6FF&dates=2DD4BF" />
+  <img src="https://github-readme-streak-vercel.vercel.app?user=OshaqNaimat&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=A371F7&sideLabels=58A6FF&dates=2DD4BF" alt="GitHub Streak" />
 </p>
