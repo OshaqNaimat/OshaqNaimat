@@ -33,11 +33,10 @@
 
 <p align="center">
   <img
-    src="https://YOUR-PROJECT.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
+    src="https://your-activity-graph.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
     alt="Oshaq Naimat's GitHub Activity Graph"
   />
 </p>
-
 ---
 
 ## Languages & Tools:
