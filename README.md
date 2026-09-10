@@ -30,7 +30,10 @@
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OshaqNaimat&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://ghchart.rshah.org/58a6ff/OshaqNaimat"
+    alt="Oshaq Naimat's GitHub Activity Graph"
+  />
 </p>
 
 ## Languages & Tools:
