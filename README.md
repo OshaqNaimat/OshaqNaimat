@@ -31,11 +31,10 @@
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/OshaqNaimat"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OshaqNaimat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
     alt="Oshaq Naimat's GitHub Activity Graph"
   />
 </p>
----
 
 ## Languages & Tools:
 <p align="left">
