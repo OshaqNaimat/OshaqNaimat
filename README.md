@@ -30,10 +30,7 @@
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OshaqNaimat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    alt="Oshaq Naimat's GitHub Activity Graph"
-  />
+  <img src="https://streak-stats.demolab.com?user=OshaqNaimat&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Languages & Tools:
