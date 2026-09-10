@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
+    src="https://ghchart.rshah.org/OshaqNaimat"
     alt="Oshaq Naimat's GitHub Activity Graph"
   />
 </p>
