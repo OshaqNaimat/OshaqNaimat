@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true&custom_title=Oshaq%20Naimat's%20Activity%20Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
     alt="Activity Graph"
   />
 </p>
