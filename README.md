@@ -27,12 +27,12 @@
 
 
 </div>
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📈 Monthly Contributions</h2>
 
 <p align="center">
   <img
-    src="https://activity-graph.herokuapp.com/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
-    alt="Activity Graph"
+    src="https://raw.githubusercontent.com/OshaqNaimat/OshaqNaimat/main/dist/contribution-graph.svg"
+    alt="Monthly Contributions Graph"
   />
 </p>
 
