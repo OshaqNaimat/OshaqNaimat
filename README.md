@@ -24,15 +24,14 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OshaqNaimat/OshaqNaimat/main/dist/github-snake.svg">
   </picture>
 </p>
----
+
 
 </div>
-
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
   <img
-    src="https://your-activity-graph.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OshaqNaimat&theme=tokyo-night&hide_border=true&area=true"
     alt="Oshaq Naimat's GitHub Activity Graph"
   />
 </p>
