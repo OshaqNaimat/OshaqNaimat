@@ -27,14 +27,7 @@
 
 
 </div>
-<h2 align="center">📈 Activity Graph</h2>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/OshaqNaimat/OshaqNaimat/main/dist/contribution-graph.svg"
-    alt="Oshaq Naimat's Contribution Graph"
-  />
-</p>
 
 ## Languages & Tools:
 <p align="left">
